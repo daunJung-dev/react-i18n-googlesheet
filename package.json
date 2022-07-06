@@ -1,0 +1,9 @@
+{
+  "name": "react-i18n-googlesheet",
+  "version": "0.0.1",
+  "description": "This is library for i18n which is needed to ready for globalization. I HOPE it can make easy translate languages by just inputing some translations. It saves google-sheet at user's drive and manage translations easily.",
+  "main": "index.js",
+  "repository": "https://github.com/daunJung-dev/react-i18n-googlesheet.git",
+  "author": "Daun Jung Timothy<daun.timothy@gmail.com>",
+  "license": "MIT"
+}
